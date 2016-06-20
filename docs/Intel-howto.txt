@@ -1,0 +1,7 @@
+How to run stress test on intel platform?
+0. on desktop, run 'adb connect xxx.xxx.x.xxx:5555' to connect with devie. xxx.xxx.x.xxx is the ipaddress of device
+1. run 'prepare_mpt_intel.py' instead of 'prepare_mpt.py' to prepare the device
+2. reconnect device after reboot. Remember never to logout after your device is ready to run
+3. modify muat_main.py to add serial_number into parameter, for example:
+    params = parse_parameters.GenerateParameters(... ... config_file = ['muat_browser.py'], serial_number = 'xxx.xxx.x.xxx:5555')
+then you can start to run muat_main.py...

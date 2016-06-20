@@ -1,0 +1,16 @@
+machine:
+  host: 10.69.33.244
+  path: ~/cisespace/
+  user: yunpc
+default:
+  prepare:
+    exec:
+    - cd /home/yunpc/RK3188_AutoFlashTool && sudo python auto_flash_micropc.py
+    - sleep 150
+    - cd $source_root/test_src/dependency && sudo python prepare_mpt_for_newbox.py
+  run_it:
+    exec:
+    - adb kill-server
+    - sudo adb start-server
+    - cd $source_root/test_src && sudo python muat_main.py
+    - sudo rm -rf $source_root

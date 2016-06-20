@@ -1,0 +1,115 @@
+lanch applist after open chrome 16 tab...
+
+
+MemFree:          433728 kB
+
+lanch taskmgr after open chrome 16 tab...
+
+
+MemFree:          428140 kB
+
+lanch applist after open chrome 16 tab...
+
+
+MemFree:           78728 kB
+
+lanch taskmgr after open chrome 16 tab...
+
+
+MemFree:          109820 kB
+
+after 10Apps open chrome 16 tab...
+
+
+MemFree:           57348 kB
+
+lanch applist after open chrome 16 tab...
+
+
+MemFree:          621496 kB
+
+lanch taskmgr after open chrome 16 tab...
+
+
+MemFree:          638088 kB
+
+after 10Apps open chrome 16 tab...
+
+
+MemFree:           59968 kB
+
+after open chrome 16 tab...
+
+
+MemFree:          695136 kB
+
+lanch applist after open chrome 16 tab...
+
+
+MemFree:          650452 kB
+
+lanch taskmgr after open chrome 16 tab...
+
+
+MemFree:          847136 kB
+
+after 10Apps open chrome 16 tab...
+
+
+MemFree:           60848 kB
+
+after open chrome 16 tab...
+
+
+MemFree:          654360 kB
+
+lanch applist after open chrome 16 tab...
+
+
+MemFree:          657028 kB
+
+lanch taskmgr after open chrome 16 tab...
+
+
+MemFree:          635336 kB
+
+after 10Apps open chrome 16 tab...
+
+
+MemFree:           61268 kB
+
+after open chrome 16 tab...
+
+
+MemFree:          658960 kB
+
+lanch applist after open chrome 16 tab...
+
+
+MemFree:          644012 kB
+
+lanch taskmgr after open chrome 16 tab...
+
+
+MemFree:          639228 kB
+
+after 10Apps open chrome 16 tab...
+
+
+MemFree:           60432 kB
+
+after open chrome 16 tab...
+
+
+MemFree:          638980 kB
+
+lanch applist after open chrome 16 tab...
+
+
+MemFree:          624780 kB
+
+lanch taskmgr after open chrome 16 tab...
+
+
+MemFree:          607912 kB
+
